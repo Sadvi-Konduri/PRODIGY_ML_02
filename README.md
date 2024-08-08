@@ -57,6 +57,3 @@ The `Mall_Customers_Clustered.csv` file contains the customer data with the adde
 - **Annual Income (k$)**: Annual income of the customer in thousands of dollars.
 - **Spending Score (1-100)**: Spending score assigned to the customer.
 - **Cluster**: The cluster assignment for each customer, indicating which group they belong to based on the K-means clustering.
-
-# TASK_02
-# TASK_02
